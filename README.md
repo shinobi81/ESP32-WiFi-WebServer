@@ -50,7 +50,7 @@ No additional hardware components are required.
 
 ```bash
 git clone https://github.com/shinobi81/ESP32-WiFi-WebServer.git
-cd esp32-wifi-webserver
+cd ESP32-WiFi-WebServer
 ```
 
 ### 2. Open in PlatformIO
