@@ -49,7 +49,7 @@ No additional hardware components are required.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shinobi81/esp32-wifi-webserver.git
+git clone https://github.com/shinobi81/ESP32-WiFi-WebServer.git
 cd esp32-wifi-webserver
 ```
 
